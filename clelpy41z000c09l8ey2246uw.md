@@ -1,0 +1,9 @@
+# Web API vs MVC controller in DOTNET
+
+Web API and MVC (Model-View-Controller) controllers are both used in [ASP.NET](http://ASP.NET) to handle requests and produce responses, but they are used for different purposes.
+
+Web API is used to build HTTP services that can be consumed by a wide range of clients, including web browsers, mobile devices, and desktop applications. Web API is designed specifically for building RESTful web services that can expose data and functionality over HTTP, and it provides a simple and flexible way to build these services. With Web API, developers can create services that can be accessed using standard HTTP methods, such as GET, POST, PUT, and DELETE, and that can return data in a variety of formats, including JSON, XML, and others.
+
+MVC, on the other hand, is a framework for building web applications that follow the Model-View-Controller pattern. MVC separates the application into three main components: the model, which represents the data and business logic; the view, which displays the data to the user; and the controller, which handles user input and manages the interaction between the model and the view. Controllers in MVC are used to handle HTTP requests and generate responses based on the request parameters and the state of the model.
+
+While both Web API and MVC controllers can handle HTTP requests and generate responses, they are used for different purposes. Web API is used specifically for building HTTP services, while MVC is used for building web applications that follow the Model-View-Controller pattern. The choice of which to use depends on the requirements of the application and the type of functionality that needs to be exposed over HTTP.
