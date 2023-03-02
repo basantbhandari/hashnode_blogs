@@ -1,4 +1,4 @@
-# What is entity framework?
+# What is an entity framework?
 
 Entity Framework (EF) is an Object-Relational Mapping (ORM) framework provided by Microsoft as a part of the .NET Framework. It enables developers to work with data in the form of objects and classes, rather than having to work directly with SQL queries and database tables.
 
