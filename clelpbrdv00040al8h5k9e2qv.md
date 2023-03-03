@@ -1,4 +1,11 @@
-# What is an entity framework?
+---
+title: "What is an entity framework?"
+datePublished: Sun Feb 26 2023 18:05:27 GMT+0000 (Coordinated Universal Time)
+cuid: clelpbrdv00040al8h5k9e2qv
+slug: what-is-an-entity-framework
+tags: entity-framework
+
+---
 
 Entity Framework (EF) is an Object-Relational Mapping (ORM) framework provided by Microsoft as a part of the .NET Framework. It enables developers to work with data in the form of objects and classes, rather than having to work directly with SQL queries and database tables.
 
