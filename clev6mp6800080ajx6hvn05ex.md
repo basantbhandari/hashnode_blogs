@@ -1,8 +1,8 @@
 ---
-title: "write a finance research article  about  Jason Calacanis"
+title: "a finance research article  about  Jason Calacanis"
 datePublished: Sun Mar 05 2023 09:19:46 GMT+0000 (Coordinated Universal Time)
 cuid: clev6mp6800080ajx6hvn05ex
-slug: write-a-finance-research-article-about-jason-calacanis
+slug: a-finance-research-article-about-jason-calacanis
 tags: jason-calacanis
 
 ---
