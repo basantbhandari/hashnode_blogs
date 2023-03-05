@@ -1,8 +1,8 @@
 ---
-title: "write a finance research article  about  chamath palihapitiya"
+title: "a finance research article  about  chamath palihapitiya"
 datePublished: Sun Mar 05 2023 09:21:20 GMT+0000 (Coordinated Universal Time)
 cuid: clev6op4g000408mi8dvzanrx
-slug: write-a-finance-research-article-about-chamath-palihapitiya
+slug: a-finance-research-article-about-chamath-palihapitiya
 tags: chamath-palihapitiya
 
 ---
