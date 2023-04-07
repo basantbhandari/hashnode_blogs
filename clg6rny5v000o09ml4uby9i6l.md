@@ -27,7 +27,7 @@ here's an example of error handling in GraphQL:
 Let's say we have a GraphQL schema that includes a mutation for creating a new user:
 
 ```graphql
-typescriptCopy codetype Mutation {
+type Mutation {
   createUser(input: CreateUserInput!): User!
 }
 
