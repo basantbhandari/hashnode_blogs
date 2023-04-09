@@ -1,0 +1,13 @@
+---
+title: "Barack Obama, research article"
+datePublished: Sun Apr 09 2023 08:43:27 GMT+0000 (Coordinated Universal Time)
+cuid: clg95qsve01yqu7nv1rtkf000
+slug: barack-obama-research-article
+
+---
+
+Barack Obama is the 44th and current President of the United States, and the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He worked as a community organizer and practiced as a civil rights attorney before serving three terms in the Illinois Senate from 1997 to 2004. He also taught constitutional law at the University of Chicago Law School from 1992 to 2004. Following an unsuccessful bid for the United States House of Representatives in 2000, he ran for the Senate in 2004 and was elected to the office on November 2, 2004. Obama was sworn in as President on January 20, 2009, and has since been re-elected to a second term.
+
+During his first four years in office, Obama signed into law economic stimulus legislation in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as "Obamacare"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010. In foreign policy, Obama increased U.S. troop levels in Afghanistan, reduced nuclear weapons with the United States–Russia New START treaty, and ended military involvement in the Iraq War. He also ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi; Gaddafi was subsequently killed.
+
+In May 2011, Obama announced his candidacy for re-election to a second term. On November 6, 2012, Obama was elected to a second term, defeating Republican nominee Mitt Romney. During his second term, Obama has promoted inclusiveness for LGBT Americans. His administration filed briefs that urged the Supreme Court to strike down same-sex marriage bans as unconstitutional (United States v. Windsor and Hollingsworth v. Perry); both cases resulted in victories for same-sex marriage. In foreign policy, Obama ordered U.S. military involvement in Iraq in response to gains made by the Islamic State in Iraq and the Levant (ISIL) after the 2011 withdrawal from Iraq.
