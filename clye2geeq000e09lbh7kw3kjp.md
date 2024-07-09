@@ -50,9 +50,11 @@ class Solution:
         def dfs(i):
             if i >= len(nums):
                 res.append(subset.copy())
-                return
+                return None
+            # decision to include nums[i]
             subset.append(nums[i])
             dfs(i + 1)
+            # decision to not include nums[i]
             subset.pop()
             dfs(i + 1)
 
